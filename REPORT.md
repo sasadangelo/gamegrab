@@ -1,6 +1,5 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
-|------|--------|
 | Game | Result |
 |------|--------|
 | [asura75843 vs sasadangelo](https://www.chess.com/game/daily/650702155) | ![Win](img/win.png) |
