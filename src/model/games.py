@@ -8,6 +8,8 @@ class Game:
         self.black_player = self.game.headers["Black"]
         self.result = self.game.headers["Result"]
         self.link = self.game.headers["Link"]
+        self.white_elo = self.game.headers["WhiteElo"]
+        self.black_elo = self.game.headers["BlackElo"]
         self.start_time = self.convert_to_local_time(self.game.headers["Date"], self.game.headers["StartTime"])
         self.end_time = self.convert_to_local_time(self.game.headers["EndDate"], self.game.headers["EndTime"])
 
@@ -23,10 +25,10 @@ class Game:
         return date_time_local
 
 class GameCollection:
-    def __init__(self, pgn_file, num_games=100):
+    def __init__(self, pgn_file, num_games=None):
         self.games = self.load_games(pgn_file, num_games)
 
-    def load_games(self, pgn_file, num_games=100):
+    def load_games(self, pgn_file, num_games=None):
         games = []
         with open(pgn_file) as pgn:
             while True:
@@ -34,7 +36,7 @@ class GameCollection:
                 if game is None:
                     break
                 games.append(Game(game))
-                if len(games) > num_games:
+                if num_games and len(games) > num_games:
                     break
         return games
 
