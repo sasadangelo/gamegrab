@@ -1,105 +1,105 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
-| Game | Result |
-|------|--------|
-| [asura75843 vs sasadangelo](https://www.chess.com/game/daily/650702155) | ![Win](img/win.png) |
-| [sasadangelo vs Ken987654](https://www.chess.com/game/live/108074960143) | ![Lose](img/lose.png) |
-| [RobertDryburgh vs sasadangelo](https://www.chess.com/game/live/108073771767) | ![Win](img/win.png) |
-| [sasadangelo vs chunkynintendowilliams](https://www.chess.com/game/live/108073193199) | ![Win](img/win.png) |
-| [elikuhels vs sasadangelo](https://www.chess.com/game/live/108072087279) | ![Win](img/win.png) |
-| [sasadangelo vs leagal92](https://www.chess.com/game/live/108066145403) | ![Win](img/win.png) |
-| [DanielEnglish1987 vs sasadangelo](https://www.chess.com/game/live/108065497157) | ![Lose](img/lose.png) |
-| [sasadangelo vs stickman501](https://www.chess.com/game/live/108064784979) | ![Win](img/win.png) |
-| [RomanSpiegelman vs sasadangelo](https://www.chess.com/game/live/107962310105) | ![Lose](img/lose.png) |
-| [sasadangelo vs lsutigerfan81](https://www.chess.com/game/live/107962234283) | ![Win](img/win.png) |
-| [bunsterno vs sasadangelo](https://www.chess.com/game/live/107961594591) | ![Win](img/win.png) |
-| [Master_Dejan vs sasadangelo](https://www.chess.com/game/live/107960466403) | ![Win](img/win.png) |
-| [sasadangelo vs Master_Dejan](https://www.chess.com/game/live/107960405433) | ![Lose](img/lose.png) |
-| [Master_Dejan vs sasadangelo](https://www.chess.com/game/live/107959832697) | ![Win](img/win.png) |
-| [sasadangelo vs Hier_Loufoque](https://www.chess.com/game/live/107959300485) | ![Lose](img/lose.png) |
-| [Delecqtable vs sasadangelo](https://www.chess.com/game/live/107893348261) | ![Win](img/win.png) |
-| [sasadangelo vs EmmanuelLightIsaac7](https://www.chess.com/game/live/107892723751) | ![Win](img/win.png) |
-| [clowncog vs sasadangelo](https://www.chess.com/game/live/107892614689) | ![Lose](img/lose.png) |
-| [sasadangelo vs juanjoPc1](https://www.chess.com/game/live/107891968311) | ![Win](img/win.png) |
-| [aaronfriend2 vs sasadangelo](https://www.chess.com/game/live/107852393007) | ![Lose](img/lose.png) |
-| [sasadangelo vs lesser_grouse](https://www.chess.com/game/live/107851273977) | ![Win](img/win.png) |
-| [tawilax vs sasadangelo](https://www.chess.com/game/live/107851186323) | ![Lose](img/lose.png) |
-| [Citadel74 vs sasadangelo](https://www.chess.com/game/live/107850645577) | ![Win](img/win.png) |
-| [sasadangelo vs Miles5704](https://www.chess.com/game/live/107850619723) | ![Lose](img/lose.png) |
-| [Bruno_2bs vs sasadangelo](https://www.chess.com/game/live/107807040733) | ![Lose](img/lose.png) |
-| [sasadangelo vs Redoram](https://www.chess.com/game/live/107806432739) | ![Win](img/win.png) |
-| [sasadangelo vs BigJohson](https://www.chess.com/game/live/107545986027) | ![Win](img/win.png) |
-| [McMorehouse vs sasadangelo](https://www.chess.com/game/live/107545460587) | ![Win](img/win.png) |
-| [mbutch vs sasadangelo](https://www.chess.com/game/live/107544843773) | ![Win](img/win.png) |
-| [westcoastpete vs sasadangelo](https://www.chess.com/game/live/107456562295) | ![Lose](img/lose.png) |
-| [sasadangelo vs bobypedrosa](https://www.chess.com/game/live/107455982623) | ![Win](img/win.png) |
-| [sasadangelo vs HenryYRZ05](https://www.chess.com/game/live/107454773409) | ![Lose](img/lose.png) |
-| [sasadangelo vs 19Filip96](https://www.chess.com/game/live/107454112161) | ![Win](img/win.png) |
-| [d0lv3 vs sasadangelo](https://www.chess.com/game/live/107453575025) | ![Lose](img/lose.png) |
-| [sasadangelo vs christopheRo1974](https://www.chess.com/game/live/107362469551) | ![Win](img/win.png) |
-| [SmallestSix vs sasadangelo](https://www.chess.com/game/live/107345598381) | ![Lose](img/lose.png) |
-| [sasadangelo vs Boffa32](https://www.chess.com/game/live/107344991527) | ![Win](img/win.png) |
-| [sasadangelo vs LuccianoOK](https://www.chess.com/game/live/107344911643) | ![Lose](img/lose.png) |
-| [LLlystrila vs sasadangelo](https://www.chess.com/game/live/107344394461) | ![Lose](img/lose.png) |
-| [zeehdeeh vs sasadangelo](https://www.chess.com/game/live/107344331355) | ![Win](img/win.png) |
-| [babyartie vs sasadangelo](https://www.chess.com/game/live/107343175095) | ![Win](img/win.png) |
-| [sasadangelo vs adriantaxi152](https://www.chess.com/game/live/107343122637) | ![Win](img/win.png) |
-| [sasadangelo vs TimHie](https://www.chess.com/game/live/107342039191) | ![Lose](img/lose.png) |
-| [Elvis-Bulan23 vs sasadangelo](https://www.chess.com/game/live/107057666908) | ![Lose](img/lose.png) |
-| [letstop vs sasadangelo](https://www.chess.com/game/live/107057633800) | ![Win](img/win.png) |
-| [orsonjarr vs sasadangelo](https://www.chess.com/game/live/107057613792) | ![Win](img/win.png) |
-| [sasadangelo vs Kareeemali](https://www.chess.com/game/live/107057591176) | ![Lose](img/lose.png) |
-| [sasadangelo vs katharinasru](https://www.chess.com/game/live/107053742668) | ![Lose](img/lose.png) |
-| [Andre_Sokolov vs sasadangelo](https://www.chess.com/game/live/107053720600) | ![Lose](img/lose.png) |
-| [arash24242424 vs sasadangelo](https://www.chess.com/game/live/107053674446) | ![Lose](img/lose.png) |
-| [Hagzzz vs sasadangelo](https://www.chess.com/game/live/107289605709) | ![Lose](img/lose.png) |
-| [sasadangelo vs DHP11](https://www.chess.com/game/live/107289170621) | ![Win](img/win.png) |
-| [sasadangelo vs elantoma](https://www.chess.com/game/live/107289100535) | ![Lose](img/lose.png) |
-| [LRonMacBong vs sasadangelo](https://www.chess.com/game/live/107286641809) | ![Win](img/win.png) |
-| [sasadangelo vs MitosAmigo](https://www.chess.com/game/live/107285550765) | ![Win](img/win.png) |
-| [sasadangelo vs VolodymirPutler](https://www.chess.com/game/live/107285508391) | ![Win](img/win.png) |
-| [sasadangelo vs emma_mecury](https://www.chess.com/game/live/107284915191) | ![Lose](img/lose.png) |
-| [rogeliovl vs sasadangelo](https://www.chess.com/game/live/107283729139) | ![Win](img/win.png) |
-| [sasadangelo vs ChessFromDayOne](https://www.chess.com/game/live/107216420659) | ![Win](img/win.png) |
-| [Chontow vs sasadangelo](https://www.chess.com/game/live/107215813625) | ![Lose](img/lose.png) |
-| [rfrey vs sasadangelo](https://www.chess.com/game/live/107215245039) | ![Win](img/win.png) |
-| [sasadangelo vs SoaR666](https://www.chess.com/game/live/107214601661) | ![Win](img/win.png) |
-| [Phobia40 vs sasadangelo](https://www.chess.com/game/live/107213466773) | ![Win](img/win.png) |
-| [sasadangelo vs Funk3Beast](https://www.chess.com/game/live/107212946913) | ![Win](img/win.png) |
-| [AhmedDuraibat vs sasadangelo](https://www.chess.com/game/live/107112665299) | ![Lose](img/lose.png) |
-| [sasadangelo vs manop43](https://www.chess.com/game/live/107112112195) | ![Win](img/win.png) |
-| [saltyloafofbread vs sasadangelo](https://www.chess.com/game/live/106864189181) | ![Lose](img/lose.png) |
-| [sasadangelo vs erenagar](https://www.chess.com/game/live/106863127265) | ![Win](img/win.png) |
-| [sasadangelo vs imradhe](https://www.chess.com/game/live/106863075149) | ![Win](img/win.png) |
-| [chris65300 vs sasadangelo](https://www.chess.com/game/live/105015949000) | ![Lose](img/lose.png) |
-| [sasadangelo vs jioioio](https://www.chess.com/game/live/105015916658) | ![Win](img/win.png) |
-| [sasadangelo vs saipalati](https://www.chess.com/game/live/105015876964) | ![Lose](img/lose.png) |
-| [Dieeeem vs sasadangelo](https://www.chess.com/game/live/105012326388) | ![Lose](img/lose.png) |
-| [Chess1begin vs sasadangelo](https://www.chess.com/game/live/106759263171) | ![Win](img/win.png) |
-| [BigPawn77777 vs sasadangelo](https://www.chess.com/game/live/106758714193) | ![Lose](img/lose.png) |
-| [sasadangelo vs Greenathon](https://www.chess.com/game/live/106757995195) | ![Win](img/win.png) |
-| [sasadangelo vs kingofbongo427](https://www.chess.com/game/live/106757392243) | ![Win](img/win.png) |
-| [ISAAFDE vs sasadangelo](https://www.chess.com/game/live/105005863900) | ![Lose](img/lose.png) |
-| [Sachin25595 vs sasadangelo](https://www.chess.com/game/live/105005860990) | ![Win](img/win.png) |
-| [sasadangelo vs maanjolian222](https://www.chess.com/game/live/105005826070) | ![Lose](img/lose.png) |
-| [sasadangelo vs urge3](https://www.chess.com/game/live/105005784456) | ![Win](img/win.png) |
-| [ASR_14 vs sasadangelo](https://www.chess.com/game/live/105005770376) | ![Win](img/win.png) |
-| [sasadangelo vs daniel00112233](https://www.chess.com/game/live/105005727228) | ![Lose](img/lose.png) |
-| [ardark37 vs sasadangelo](https://www.chess.com/game/live/105005697048) | ![Lose](img/lose.png) |
-| [sasadangelo vs roooei](https://www.chess.com/game/live/105005675882) | ![Win](img/win.png) |
-| [sajeeshkm vs sasadangelo](https://www.chess.com/game/live/105004467430) | ![Lose](img/lose.png) |
-| [Mithun1331 vs sasadangelo](https://www.chess.com/game/live/106595896857) | ![Lose](img/lose.png) |
-| [jwaldman9 vs sasadangelo](https://www.chess.com/game/live/106595829903) | ![Lose](img/lose.png) |
-| [sasadangelo vs MosyoMuezzin](https://www.chess.com/game/live/106595796731) | ![Win](img/win.png) |
-| [mohit081190 vs sasadangelo](https://www.chess.com/game/live/106594722435) | ![Lose](img/lose.png) |
-| [sasadangelo vs zigalay](https://www.chess.com/game/live/106593972491) | ![Lose](img/lose.png) |
-| [sasadangelo vs zukie6677](https://www.chess.com/game/live/106510590237) | ![Lose](img/lose.png) |
-| [EverwijnLammers vs sasadangelo](https://www.chess.com/game/live/106510141945) | ![Win](img/win.png) |
-| [sasadangelo vs TheLastHylianHero](https://www.chess.com/game/live/106508967485) | ![Lose](img/lose.png) |
-| [sasadangelo vs rfalck](https://www.chess.com/game/live/106508301047) | ![Win](img/win.png) |
-| [derrymurbles vs sasadangelo](https://www.chess.com/game/live/106432149637) | ![Lose](img/lose.png) |
-| [ReGila97 vs sasadangelo](https://www.chess.com/game/live/106432055955) | ![Win](img/win.png) |
-| [1016Ind vs sasadangelo](https://www.chess.com/game/live/106431516809) | ![Win](img/win.png) |
-| [sasadangelo vs BluePundit](https://www.chess.com/game/live/106430879701) | ![Win](img/win.png) |
-| [MilioNL vs sasadangelo](https://www.chess.com/game/live/106430293089) | ![Win](img/win.png) |
-| [sasadangelo vs RamblingRookies](https://www.chess.com/game/live/106420703123) | ![Win](img/win.png) |
+| Game | Date and Time | Result |
+|------|---------------|--------|
+| [asura75843 vs sasadangelo](https://www.chess.com/game/daily/650702155) | 20240427 16:09 | ![Win](img/win.png) |
+| [sasadangelo vs Ken987654](https://www.chess.com/game/live/108074960143) | 20240428 22:23 | ![Lose](img/lose.png) |
+| [RobertDryburgh vs sasadangelo](https://www.chess.com/game/live/108073771767) | 20240428 22:03 | ![Win](img/win.png) |
+| [sasadangelo vs chunkynintendowilliams](https://www.chess.com/game/live/108073193199) | 20240428 21:54 | ![Win](img/win.png) |
+| [elikuhels vs sasadangelo](https://www.chess.com/game/live/108072087279) | 20240428 21:39 | ![Win](img/win.png) |
+| [sasadangelo vs leagal92](https://www.chess.com/game/live/108066145403) | 20240428 20:02 | ![Win](img/win.png) |
+| [DanielEnglish1987 vs sasadangelo](https://www.chess.com/game/live/108065497157) | 20240428 19:49 | ![Lose](img/lose.png) |
+| [sasadangelo vs stickman501](https://www.chess.com/game/live/108064784979) | 20240428 19:34 | ![Win](img/win.png) |
+| [RomanSpiegelman vs sasadangelo](https://www.chess.com/game/live/107962310105) | 20240427 15:11 | ![Lose](img/lose.png) |
+| [sasadangelo vs lsutigerfan81](https://www.chess.com/game/live/107962234283) | 20240427 15:07 | ![Win](img/win.png) |
+| [bunsterno vs sasadangelo](https://www.chess.com/game/live/107961594591) | 20240427 14:55 | ![Win](img/win.png) |
+| [Master_Dejan vs sasadangelo](https://www.chess.com/game/live/107960466403) | 20240427 14:39 | ![Win](img/win.png) |
+| [sasadangelo vs Master_Dejan](https://www.chess.com/game/live/107960405433) | 20240427 14:35 | ![Lose](img/lose.png) |
+| [Master_Dejan vs sasadangelo](https://www.chess.com/game/live/107959832697) | 20240427 14:27 | ![Win](img/win.png) |
+| [sasadangelo vs Hier_Loufoque](https://www.chess.com/game/live/107959300485) | 20240427 14:21 | ![Lose](img/lose.png) |
+| [Delecqtable vs sasadangelo](https://www.chess.com/game/live/107893348261) | 20240426 20:02 | ![Win](img/win.png) |
+| [sasadangelo vs EmmanuelLightIsaac7](https://www.chess.com/game/live/107892723751) | 20240426 19:51 | ![Win](img/win.png) |
+| [clowncog vs sasadangelo](https://www.chess.com/game/live/107892614689) | 20240426 19:45 | ![Lose](img/lose.png) |
+| [sasadangelo vs juanjoPc1](https://www.chess.com/game/live/107891968311) | 20240426 19:33 | ![Win](img/win.png) |
+| [aaronfriend2 vs sasadangelo](https://www.chess.com/game/live/107852393007) | 20240426 08:35 | ![Lose](img/lose.png) |
+| [sasadangelo vs lesser_grouse](https://www.chess.com/game/live/107851273977) | 20240426 08:22 | ![Win](img/win.png) |
+| [tawilax vs sasadangelo](https://www.chess.com/game/live/107851186323) | 20240426 08:15 | ![Lose](img/lose.png) |
+| [Citadel74 vs sasadangelo](https://www.chess.com/game/live/107850645577) | 20240426 08:10 | ![Win](img/win.png) |
+| [sasadangelo vs Miles5704](https://www.chess.com/game/live/107850619723) | 20240426 08:08 | ![Lose](img/lose.png) |
+| [Bruno_2bs vs sasadangelo](https://www.chess.com/game/live/107807040733) | 20240425 20:01 | ![Lose](img/lose.png) |
+| [sasadangelo vs Redoram](https://www.chess.com/game/live/107806432739) | 20240425 19:51 | ![Win](img/win.png) |
+| [sasadangelo vs BigJohson](https://www.chess.com/game/live/107545986027) | 20240422 19:28 | ![Win](img/win.png) |
+| [McMorehouse vs sasadangelo](https://www.chess.com/game/live/107545460587) | 20240422 19:22 | ![Win](img/win.png) |
+| [mbutch vs sasadangelo](https://www.chess.com/game/live/107544843773) | 20240422 19:11 | ![Win](img/win.png) |
+| [westcoastpete vs sasadangelo](https://www.chess.com/game/live/107456562295) | 20240421 18:37 | ![Lose](img/lose.png) |
+| [sasadangelo vs bobypedrosa](https://www.chess.com/game/live/107455982623) | 20240421 18:29 | ![Win](img/win.png) |
+| [sasadangelo vs HenryYRZ05](https://www.chess.com/game/live/107454773409) | 20240421 18:08 | ![Lose](img/lose.png) |
+| [sasadangelo vs 19Filip96](https://www.chess.com/game/live/107454112161) | 20240421 17:55 | ![Win](img/win.png) |
+| [d0lv3 vs sasadangelo](https://www.chess.com/game/live/107453575025) | 20240421 17:48 | ![Lose](img/lose.png) |
+| [sasadangelo vs christopheRo1974](https://www.chess.com/game/live/107362469551) | 20240420 16:33 | ![Win](img/win.png) |
+| [SmallestSix vs sasadangelo](https://www.chess.com/game/live/107345598381) | 20240420 11:51 | ![Lose](img/lose.png) |
+| [sasadangelo vs Boffa32](https://www.chess.com/game/live/107344991527) | 20240420 11:40 | ![Win](img/win.png) |
+| [sasadangelo vs LuccianoOK](https://www.chess.com/game/live/107344911643) | 20240420 11:35 | ![Lose](img/lose.png) |
+| [LLlystrila vs sasadangelo](https://www.chess.com/game/live/107344394461) | 20240420 11:31 | ![Lose](img/lose.png) |
+| [zeehdeeh vs sasadangelo](https://www.chess.com/game/live/107344331355) | 20240420 11:26 | ![Win](img/win.png) |
+| [babyartie vs sasadangelo](https://www.chess.com/game/live/107343175095) | 20240420 11:09 | ![Win](img/win.png) |
+| [sasadangelo vs adriantaxi152](https://www.chess.com/game/live/107343122637) | 20240420 11:06 | ![Win](img/win.png) |
+| [sasadangelo vs TimHie](https://www.chess.com/game/live/107342039191) | 20240420 10:54 | ![Lose](img/lose.png) |
+| [Elvis-Bulan23 vs sasadangelo](https://www.chess.com/game/live/107057666908) | 20240420 10:48 | ![Lose](img/lose.png) |
+| [letstop vs sasadangelo](https://www.chess.com/game/live/107057633800) | 20240420 10:42 | ![Win](img/win.png) |
+| [orsonjarr vs sasadangelo](https://www.chess.com/game/live/107057613792) | 20240420 10:38 | ![Win](img/win.png) |
+| [sasadangelo vs Kareeemali](https://www.chess.com/game/live/107057591176) | 20240420 10:34 | ![Lose](img/lose.png) |
+| [sasadangelo vs katharinasru](https://www.chess.com/game/live/107053742668) | 20240419 21:26 | ![Lose](img/lose.png) |
+| [Andre_Sokolov vs sasadangelo](https://www.chess.com/game/live/107053720600) | 20240419 21:22 | ![Lose](img/lose.png) |
+| [arash24242424 vs sasadangelo](https://www.chess.com/game/live/107053674446) | 20240419 21:16 | ![Lose](img/lose.png) |
+| [Hagzzz vs sasadangelo](https://www.chess.com/game/live/107289605709) | 20240419 20:14 | ![Lose](img/lose.png) |
+| [sasadangelo vs DHP11](https://www.chess.com/game/live/107289170621) | 20240419 20:12 | ![Win](img/win.png) |
+| [sasadangelo vs elantoma](https://www.chess.com/game/live/107289100535) | 20240419 20:09 | ![Lose](img/lose.png) |
+| [LRonMacBong vs sasadangelo](https://www.chess.com/game/live/107286641809) | 20240419 19:26 | ![Win](img/win.png) |
+| [sasadangelo vs MitosAmigo](https://www.chess.com/game/live/107285550765) | 20240419 19:11 | ![Win](img/win.png) |
+| [sasadangelo vs VolodymirPutler](https://www.chess.com/game/live/107285508391) | 20240419 19:09 | ![Win](img/win.png) |
+| [sasadangelo vs emma_mecury](https://www.chess.com/game/live/107284915191) | 20240419 19:00 | ![Lose](img/lose.png) |
+| [rogeliovl vs sasadangelo](https://www.chess.com/game/live/107283729139) | 20240419 18:40 | ![Win](img/win.png) |
+| [sasadangelo vs ChessFromDayOne](https://www.chess.com/game/live/107216420659) | 20240418 23:55 | ![Win](img/win.png) |
+| [Chontow vs sasadangelo](https://www.chess.com/game/live/107215813625) | 20240418 23:45 | ![Lose](img/lose.png) |
+| [rfrey vs sasadangelo](https://www.chess.com/game/live/107215245039) | 20240418 23:37 | ![Win](img/win.png) |
+| [sasadangelo vs SoaR666](https://www.chess.com/game/live/107214601661) | 20240418 23:24 | ![Win](img/win.png) |
+| [Phobia40 vs sasadangelo](https://www.chess.com/game/live/107213466773) | 20240418 23:08 | ![Win](img/win.png) |
+| [sasadangelo vs Funk3Beast](https://www.chess.com/game/live/107212946913) | 20240418 23:02 | ![Win](img/win.png) |
+| [AhmedDuraibat vs sasadangelo](https://www.chess.com/game/live/107112665299) | 20240417 19:07 | ![Lose](img/lose.png) |
+| [sasadangelo vs manop43](https://www.chess.com/game/live/107112112195) | 20240417 18:59 | ![Win](img/win.png) |
+| [saltyloafofbread vs sasadangelo](https://www.chess.com/game/live/106864189181) | 20240414 22:03 | ![Lose](img/lose.png) |
+| [sasadangelo vs erenagar](https://www.chess.com/game/live/106863127265) | 20240414 21:51 | ![Win](img/win.png) |
+| [sasadangelo vs imradhe](https://www.chess.com/game/live/106863075149) | 20240414 21:48 | ![Win](img/win.png) |
+| [chris65300 vs sasadangelo](https://www.chess.com/game/live/105015949000) | 20240414 21:41 | ![Lose](img/lose.png) |
+| [sasadangelo vs jioioio](https://www.chess.com/game/live/105015916658) | 20240414 21:37 | ![Win](img/win.png) |
+| [sasadangelo vs saipalati](https://www.chess.com/game/live/105015876964) | 20240414 21:30 | ![Lose](img/lose.png) |
+| [Dieeeem vs sasadangelo](https://www.chess.com/game/live/105012326388) | 20240414 12:33 | ![Lose](img/lose.png) |
+| [Chess1begin vs sasadangelo](https://www.chess.com/game/live/106759263171) | 20240413 16:57 | ![Win](img/win.png) |
+| [BigPawn77777 vs sasadangelo](https://www.chess.com/game/live/106758714193) | 20240413 16:50 | ![Lose](img/lose.png) |
+| [sasadangelo vs Greenathon](https://www.chess.com/game/live/106757995195) | 20240413 16:34 | ![Win](img/win.png) |
+| [sasadangelo vs kingofbongo427](https://www.chess.com/game/live/106757392243) | 20240413 16:23 | ![Win](img/win.png) |
+| [ISAAFDE vs sasadangelo](https://www.chess.com/game/live/105005863900) | 20240413 16:18 | ![Lose](img/lose.png) |
+| [Sachin25595 vs sasadangelo](https://www.chess.com/game/live/105005860990) | 20240413 16:18 | ![Win](img/win.png) |
+| [sasadangelo vs maanjolian222](https://www.chess.com/game/live/105005826070) | 20240413 16:13 | ![Lose](img/lose.png) |
+| [sasadangelo vs urge3](https://www.chess.com/game/live/105005784456) | 20240413 16:07 | ![Win](img/win.png) |
+| [ASR_14 vs sasadangelo](https://www.chess.com/game/live/105005770376) | 20240413 16:05 | ![Win](img/win.png) |
+| [sasadangelo vs daniel00112233](https://www.chess.com/game/live/105005727228) | 20240413 15:58 | ![Lose](img/lose.png) |
+| [ardark37 vs sasadangelo](https://www.chess.com/game/live/105005697048) | 20240413 15:54 | ![Lose](img/lose.png) |
+| [sasadangelo vs roooei](https://www.chess.com/game/live/105005675882) | 20240413 15:50 | ![Win](img/win.png) |
+| [sajeeshkm vs sasadangelo](https://www.chess.com/game/live/105004467430) | 20240413 12:31 | ![Lose](img/lose.png) |
+| [Mithun1331 vs sasadangelo](https://www.chess.com/game/live/106595896857) | 20240411 19:36 | ![Lose](img/lose.png) |
+| [jwaldman9 vs sasadangelo](https://www.chess.com/game/live/106595829903) | 20240411 19:32 | ![Lose](img/lose.png) |
+| [sasadangelo vs MosyoMuezzin](https://www.chess.com/game/live/106595796731) | 20240411 19:30 | ![Win](img/win.png) |
+| [mohit081190 vs sasadangelo](https://www.chess.com/game/live/106594722435) | 20240411 19:17 | ![Lose](img/lose.png) |
+| [sasadangelo vs zigalay](https://www.chess.com/game/live/106593972491) | 20240411 18:59 | ![Lose](img/lose.png) |
+| [sasadangelo vs zukie6677](https://www.chess.com/game/live/106510590237) | 20240410 19:50 | ![Lose](img/lose.png) |
+| [EverwijnLammers vs sasadangelo](https://www.chess.com/game/live/106510141945) | 20240410 19:48 | ![Win](img/win.png) |
+| [sasadangelo vs TheLastHylianHero](https://www.chess.com/game/live/106508967485) | 20240410 19:29 | ![Lose](img/lose.png) |
+| [sasadangelo vs rfalck](https://www.chess.com/game/live/106508301047) | 20240410 19:16 | ![Win](img/win.png) |
+| [derrymurbles vs sasadangelo](https://www.chess.com/game/live/106432149637) | 20240409 22:09 | ![Lose](img/lose.png) |
+| [ReGila97 vs sasadangelo](https://www.chess.com/game/live/106432055955) | 20240409 22:03 | ![Win](img/win.png) |
+| [1016Ind vs sasadangelo](https://www.chess.com/game/live/106431516809) | 20240409 21:57 | ![Win](img/win.png) |
+| [sasadangelo vs BluePundit](https://www.chess.com/game/live/106430879701) | 20240409 21:46 | ![Win](img/win.png) |
+| [MilioNL vs sasadangelo](https://www.chess.com/game/live/106430293089) | 20240409 21:36 | ![Win](img/win.png) |
+| [sasadangelo vs RamblingRookies](https://www.chess.com/game/live/106420703123) | 20240409 18:56 | ![Win](img/win.png) |
