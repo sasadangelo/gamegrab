@@ -45,8 +45,8 @@ class Game:
         self.opening_url = self.game.headers["ECOUrl"]
         opening_name, opening_variation = opening_map.get(self.opening_code, ("Unknown Opening", "Unknown Variation"))
         # Assegna il nome e la variante dell'apertura ai campi della tua classe
-        self.opening_name = opening_name
-        self.opening_variation = opening_variation        
+        self.opening_name = opening_name if opening_name != "Unknown Opening" else self.opening_code
+        self.opening_variation = opening_variation if opening_name != "Unknown Variation" else self.opening_code
 
     def __convert_to_local_time(self, date_str, time_str):
         # Combina data e ora in un unico formato datetime
