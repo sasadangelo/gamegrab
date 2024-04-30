@@ -17,13 +17,13 @@ if __name__ == "__main__":
     # Apre il file REPORT.md in modalità scrittura
     with open("REPORT.md", "w") as report_file:
         report_file.write(f"# Chess games Report for the latest {args.num_games} {args.user}'s games.\n\n")
-        report_file.write( "| Game | Date and Time | Result |\n")
-        report_file.write( "|------|---------------|--------|\n")
+        report_file.write( "| Game | Date and Time | Opening | Result |\n")
+        report_file.write( "|------|---------------|---------|--------|\n")
         for game in game_collection:
             for game in game_collection:
                 if game.result == "1-1":
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | ![Draw](img/draw.png) |\n")
+                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_code}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
                 elif (game.white_player == args.user and game.result == "1-0") or (game.black_player == args.user and game.result == "0-1"):
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | ![Win](img/win.png) |\n")
+                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_code}]({game.opening_url}) | ![Win](img/win.png) |\n")
                 else:
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | ![Lose](img/lose.png) |\n")
+                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_code}]({game.opening_url}) | ![Lose](img/lose.png) |\n")

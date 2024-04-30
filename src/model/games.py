@@ -22,6 +22,8 @@ class Game:
         self.start_time = self.__convert_to_local_time(self.game.headers["Date"], self.game.headers["StartTime"])
         self.end_time = self.__convert_to_local_time(self.game.headers["EndDate"], self.game.headers["EndTime"])
         self.time_control = self.__parse_time_control(self.game.headers["TimeControl"])
+        self.opening_code = self.game.headers["ECO"]
+        self.opening_url = self.game.headers["ECOUrl"]
 
     def __convert_to_local_time(self, date_str, time_str):
         # Combina data e ora in un unico formato datetime
