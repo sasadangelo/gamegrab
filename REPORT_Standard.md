@@ -120,14 +120,14 @@
 | [sasadangelo (1137) vs cavalloselvaggio78 (950)](https://www.chess.com/game/daily/538906947) | 20230710 16:15 | [Exchange Variation](https://www.chess.com/openings/Philidor-Defense-Exchange-Variation-4.Nxd4) | ![Win](img/win.png) |
 | [sasadangelo (1140) vs zerajones (1084)](https://www.chess.com/game/daily/538212029) | 20230708 14:10 | [Exchange Variation](https://www.chess.com/openings/Philidor-Defense-3.d4) | ![Win](img/win.png) |
 
-## D02 (4)
+## London System (4)
 
 | Game | Date and Time | Variation | Result |
 |------|---------------|-----------|--------|
-| [Klembo48 (938) vs sasadangelo (1118)](https://www.chess.com/game/daily/558769561) | 20230907 20:27 | [Unknown Variation](https://www.chess.com/openings/London-System...4.e3-e6-5.Bd3-Bxd3-6.Qxd3) | ![Win](img/win.png) |
-| [lskshiva (886) vs sasadangelo (1204)](https://www.chess.com/game/daily/481316367) | 20230221 16:10 | [Unknown Variation](https://www.chess.com/openings/London-System-3...c5-4.e3) | ![Win](img/win.png) |
-| [daniidelaa (1068) vs sasadangelo (1192)](https://www.chess.com/game/daily/477788639) | 20230212 15:40 | [Unknown Variation](https://www.chess.com/openings/London-System) | ![Lose](img/lose.png) |
-| [daniidelaa (1065) vs sasadangelo (1191)](https://www.chess.com/game/daily/477788671) | 20230212 15:41 | [Unknown Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation) | ![Win](img/win.png) |
+| [Klembo48 (938) vs sasadangelo (1118)](https://www.chess.com/game/daily/558769561) | 20230907 20:27 | [-](https://www.chess.com/openings/London-System...4.e3-e6-5.Bd3-Bxd3-6.Qxd3) | ![Win](img/win.png) |
+| [lskshiva (886) vs sasadangelo (1204)](https://www.chess.com/game/daily/481316367) | 20230221 16:10 | [-](https://www.chess.com/openings/London-System-3...c5-4.e3) | ![Win](img/win.png) |
+| [daniidelaa (1068) vs sasadangelo (1192)](https://www.chess.com/game/daily/477788639) | 20230212 15:40 | [-](https://www.chess.com/openings/London-System) | ![Lose](img/lose.png) |
+| [daniidelaa (1065) vs sasadangelo (1191)](https://www.chess.com/game/daily/477788671) | 20230212 15:41 | [-](https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation) | ![Win](img/win.png) |
 
 ## Queen's Gambit (3)
 
@@ -137,12 +137,12 @@
 | [RdFieldz (1044) vs sasadangelo (1194)](https://www.chess.com/game/daily/485338699) | 20230304 08:44 | [Declined, Three Knights, Harrwitz Attack](https://www.chess.com/openings/Queens-Gambit-Declined-Three-Knights-Harrwitz-Attack) | ![Lose](img/lose.png) |
 | [ahude (1050) vs sasadangelo (1185)](https://www.chess.com/game/daily/474567393) | 20230204 12:38 | [Declined Variation](https://www.chess.com/openings/Queens-Gambit-Declined-3.cxd5-exd5) | ![Lose](img/lose.png) |
 
-## C00 (2)
+## French Defense (2)
 
 | Game | Date and Time | Variation | Result |
 |------|---------------|-----------|--------|
-| [JuliaBeatrice (1177) vs sasadangelo (1091)](https://www.chess.com/game/daily/620860135) | 20240210 11:28 | [Unknown Variation](https://www.chess.com/openings/French-Defense-Normal-Variation-2...d5) | ![Lose](img/lose.png) |
-| [sasadangelo (1181) vs AndyBatch (1099)](https://www.chess.com/game/daily/485338723) | 20230304 08:44 | [Unknown Variation](https://www.chess.com/openings/French-Defense-Normal-Variation-2...b6-3.Nc3) | ![Lose](img/lose.png) |
+| [JuliaBeatrice (1177) vs sasadangelo (1091)](https://www.chess.com/game/daily/620860135) | 20240210 11:28 | [Normal Variation](https://www.chess.com/openings/French-Defense-Normal-Variation-2...d5) | ![Lose](img/lose.png) |
+| [sasadangelo (1181) vs AndyBatch (1099)](https://www.chess.com/game/daily/485338723) | 20230304 08:44 | [Normal Variation](https://www.chess.com/openings/French-Defense-Normal-Variation-2...b6-3.Nc3) | ![Lose](img/lose.png) |
 
 ## Alekhine's Defense (2)
 
