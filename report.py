@@ -22,8 +22,8 @@ if __name__ == "__main__":
         for game in game_collection:
             for game in game_collection:
                 if game.result == "1-1":
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_code}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
+                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_name} - {game.opening_variation}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
                 elif (game.white_player == args.user and game.result == "1-0") or (game.black_player == args.user and game.result == "0-1"):
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_code}]({game.opening_url}) | ![Win](img/win.png) |\n")
+                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_name} - {game.opening_variation}]({game.opening_url}) | ![Win](img/win.png) |\n")
                 else:
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_code}]({game.opening_url}) | ![Lose](img/lose.png) |\n")
+                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_name} - {game.opening_variation}]({game.opening_url}) | ![Lose](img/lose.png) |\n")

@@ -2,6 +2,25 @@ from datetime import datetime, timezone
 import chess.pgn
 import enum
 
+# Definisci la mappa con codice di apertura come chiave e tupla di (nome apertura, variante apertura) come valore
+opening_map = {
+    "A00": ("Irregular Openings", "Uncommon Opening"),
+    "A01": ("Nimzowitsch-Larsen Attack", "Nimzowitsch-Larsen Variation"),
+    "B00": ("Nimzowitsch Defense", "Scandinavian, Bogoljubov, Vehre Variation"),
+    "B01": ("Scandinavian Defense", "Mieses-Kotrč, Main Line, Lasker Variation"),
+    "B02": ("Alekhine's Defense", "Scandinavian Variation"),
+    "C20": ("King's Pawn Opening", "MacLeod Attack"),
+    "C41": ("Philidor Defense", "Exchange Variation"),
+    "C44": ("Ponziani", "-"),
+    "C45": ("Scotch Game", "-"),
+    "C48": ("Four Knights Game", "Spanish Variation, Ranken Variation"),
+    "C50": ("Italian Game", "Giuoco Piano, Giuoco Pianissimo"),
+    "C53": ("Italian Game", "Main Line, Giuoco Pianissimo"),
+    "C55": ("Italian Game", "Anti Fried Liver Defense"),
+    "D00": ("Queen's Pawn Opening", "Cigorin Variation"),
+    "D30": ("Queen's Gambit", "Declined Variation"),
+}
+
 class TimeControlType(enum.Enum):
     UNKNOW = 0
     UNLIMITED = 1
@@ -24,6 +43,10 @@ class Game:
         self.time_control = self.__parse_time_control(self.game.headers["TimeControl"])
         self.opening_code = self.game.headers["ECO"]
         self.opening_url = self.game.headers["ECOUrl"]
+        opening_name, opening_variation = opening_map.get(self.opening_code, ("Unknown Opening", "Unknown Variation"))
+        # Assegna il nome e la variante dell'apertura ai campi della tua classe
+        self.opening_name = opening_name
+        self.opening_variation = opening_variation        
 
     def __convert_to_local_time(self, date_str, time_str):
         # Combina data e ora in un unico formato datetime
