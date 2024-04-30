@@ -1,6 +1,7 @@
 from datetime import datetime, timezone
-import chess.pgn
+from collections import defaultdict
 import enum
+import chess.pgn
 
 # Definisci la mappa con codice di apertura come chiave e tupla di (nome apertura, variante apertura) come valore
 opening_map = {
@@ -87,9 +88,10 @@ class Game:
 
 class GameCollection:
     def __init__(self, pgn_file, num_games=None, time_control=None):
-        self.games = self.load_games(pgn_file, num_games, time_control)
+        self.games = self.__load_games(pgn_file, num_games, time_control)
+        self.games_by_opening = self.__create_opening_map()
 
-    def load_games(self, pgn_file, num_games=None, time_control=None):
+    def __load_games(self, pgn_file, num_games=None, time_control=None):
         games = []
         with open(pgn_file) as pgn:
             while True:
@@ -104,6 +106,13 @@ class GameCollection:
                 if num_games and len(games) > num_games:
                     break
         return games
+
+    def __create_opening_map(self):
+        opening_map = defaultdict(list)
+        for game in self.games:
+            opening_map[game.opening_name].append(game)
+        opening_map = dict(sorted(opening_map.items(), key=lambda item: len(item[1]), reverse=True))
+        return opening_map
 
     def __iter__(self):
         self.index = 0
