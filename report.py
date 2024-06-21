@@ -22,7 +22,7 @@ if __name__ == "__main__":
             report_file.write( "| Game | Date and Time | Variation | Result |\n")
             report_file.write( "|------|---------------|-----------|--------|\n")
             for game in games:
-                if game.result == "1-1":
+                if game.result == "1/2-1/2":
                     report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
                 elif (game.white_player == args.user and game.result == "1-0") or (game.black_player == args.user and game.result == "0-1"):
                     report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Win](img/win.png) |\n")
