@@ -18,11 +18,15 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-2. Grab your games from Chess.com:
+3. Grab your games from Chess.com:
 ```
 python3 gamegrab.py --num-games=100 --time-class=rapid --outfile=sasadangelo.pgn sasadangelo
 ```
 
 this command download the recent 100 rapid games of the Chess.com sasadangelo user.
 
-ChessBase also has good tools for looking at performance--see the Dossier and Prepare Against features.
+4. Create a report of your games:
+```
+python3 report.py --num-games=100 --time-class=rapid --outfile=sasadangelo.pgn sasadangelo
+```
+

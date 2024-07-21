@@ -4,9 +4,9 @@ from src.model.games import GameCollection, Game
 if __name__ == "__main__":
     # Configura il parser per gestire gli argomenti da riga di comando
     parser = argparse.ArgumentParser(description='Chess games Report')
-    parser.add_argument('--user', type=str, default="", help='The user for whom the report is to be created')
-    parser.add_argument('--num-games', type=int, default=-1, help='Number of recent games to select')
-    parser.add_argument('--time-control', type=str, default="", help='The desired chess game time control (daily, rapid, blitz, bullet, etc.)')
+    parser.add_argument('--user', type=str, default="", required=True, help='The user for whom the report is to be created')
+    parser.add_argument('--num-games', type=int, default=-1, required=True, help='Number of recent games to select')
+    parser.add_argument('--time-control', type=str, default="", required=True, help='The desired chess game time control (daily, rapid, blitz, bullet, etc.)')
     args = parser.parse_args()
 
     pgn_file_name = args.user + ".pgn"
@@ -19,8 +19,8 @@ if __name__ == "__main__":
         report_file.write(f"# Chess games Report for the latest {args.num_games} {args.user}'s games.\n\n")
         for opening_name, games in game_collection.games_by_opening.items():
             report_file.write(f"\n## {opening_name} ({len(games)})\n\n")
-            report_file.write( "| Game | Date and Time | Variation | Result |\n")
-            report_file.write( "|------|---------------|-----------|--------|\n")
+            report_file.write( "| Opening | Date and Time | Variation | Result |\n")
+            report_file.write( "|---------|---------------|-----------|--------|\n")
             for game in games:
                 if game.result == "1/2-1/2":
                     report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
